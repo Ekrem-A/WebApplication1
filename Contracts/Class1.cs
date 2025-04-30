@@ -1,4 +1,4 @@
-﻿namespace ClassLibrary1
+﻿namespace Contracts
 {
     public class Class1
     {
